@@ -13,9 +13,9 @@ ReactDOM.render(
   <React.StrictMode>
     <Avatar title="Arya Stark" subtitle="Girls with no name" showName />
     <Space space="10" />
-    <Avatar title="Jon Snow" subtitle="Lord Commander of night watch" showName />
+    <Avatar title="Jon Snow" subtitle="King in the north" showName />
     <Space space="10" />
-    <Avatar title="Jon Snow" subtitle="Lord Commander of night watch" showName />
+    <Avatar title="Jaime Lannister" subtitle="Man without honour" showName />
   </React.StrictMode>,
   rootElement
 );
